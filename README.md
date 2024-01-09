@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.yudiz.com/wp-content/uploads/2019/06/mobile-app-development-social.jpg)]
+![MasterHead](https://www.yudiz.com/wp-content/uploads/2019/06/mobile-app-development-social.jpg)
 <h1 align="center">Hi 👋, I'm Talha Ismail</h1>
 <h3 align="center">A passionate Software Engineer From Bangladesh</h3>
 
