@@ -43,12 +43,12 @@
 </p>
 
 ---
-
+<!--  
 ### ☕ Support My Work
 <p><a href="https://www.buymeacoffee.com/TalhaIsmail2119"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p>
-
+-->
 ---
-
+<!-- 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=talhaismail2119&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -61,3 +61,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaismail2119&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+-->
